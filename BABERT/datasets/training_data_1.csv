@@ -1,0 +1,25 @@
+labels,text
+SPECIES MATRIX O O O O O O O O O O O O O O O,Bear bile is a valuable medicinal material used in traditional Chinese medicine for over 2000 2009 years
+O O O O O O O O O O O O O O O,However developing a substitute has become necessary because of protection measures for this endangered species
+O O O O O O SPECIES MATRIX O O O METHOD O METHOD METHOD O METHOD METHOD O METHOD O METHOD O METHOD O O O O O O O O O O O O SPECIES MATRIX O MATRIX,The ingredients of in vitro cultured bear bile powder CBBP include tauroursodeoxycholic acid TUDCA taurochenodeoxycholic acid TCDCA ursodeoxycholic acid UDCA and chenodeoxycholic acid CDCA and it has pharmacological properties that are similar to those of natural bear bile powder NBBP
+O MATRIX O MATRIX O O SPECIES O O O O O O O O O O MATRIX O O METHOD METHOD METHOD METHOD ,pharmacokinetic CBBP and NBBP were measured rats surrogate analyte method stable isotopes as surrogate analytes plasma authentic analytes TUDCA TCDCA UDCA CDCA  linear regression
+O O O O O O O O O O O O O O O O DISEASE O,The nonnucleoside reverse transcriptase inhibitor dapivirine has been evaluated as a topical microbicidal agent to prevent HIV1 acquisition 
+O O O O O O O O O O O O O DOSE O O,Several clinical trials have evaluated the pharmacokinetics of dapivirine when administered as a 25mg intravaginal ring
+O O O O O O O O O O O MATRIX,Recent studies have focused on the distribution of dapivirine into breast milk
+O O O METHOD O METHOD O O O O O O SPECIES O O,Drug distribution during lactation and breastfeeding can have implications in terms of infant drug exposure
+O O O O O O O O O O O O O MATRIX,sensitive bioanalytical tools are required to characterize the pharmacokinetics of dapivirine in breast milk
+O O MATRIX O O O O O O O,Whole breast milk was spiked with dapivirine and internal standard
+O O O O O O O CHEMICAL O O O O O O O O,Lipid content was disrupted via pretreatment with nhexane and supernatants were subjected to solid phase extraction
+O O O O METHOD O O O O O O METHOD O CHEMICAL O SPECIES MATRIX O CHEMICAL O O O O,A sensitive and rapid LCMSMS method was developed and validated for quantitation of sciadopitysin in rat plasma using amentoflavone as an internal standard
+O O O O O METHOD O DOSE METHOD O CHEMICAL,Sample processing was accomplished after deproteinization with 150u03bcL aliquot of acetonitrile 
+METHOD O O O O O O DOSE CHEMICAL CHEMICAL,Chromatographic separation was achieved using an comprising 2mm ammonium acetateacetonitrile 
+O O O O O O O O O METHOD O O O O O O SPECIES O O O O O O POLARITY O O,Detection was performed by selection reaction monitoring on a triplequadrupole mass spectrometer following the transitions for sciadopitysin and internal standard respectively in the negative ionization mode
+O METHOD O O O O O SPECIES,The calibration curve was linear from for sciadopitysin
+ METHOD O METHOD O O O O O O SPECIES, Intra and interday precisions were in the ranges for sciadopitysin
+SPECIES O O O O O O, Sciadopitysin was stable under different stability conditions
+O O METHOD O O O METHOD O METHOD O O SPECIES,The validated assay was applied to pharmacokinetic and bioavailability studies in rats
+O O O O O O O O O METHOD O O O O O METHOD O METHOD METHOD METHOD O O MATRIX METHOD O SPECIES O SPECIES MATRIX O METHOD O O O O INTERNALSTANDARD,In the present study a simple rapid and reliable bioanalytical method was developed using liquid chromatography with tandemmass spectrometry LCMSMS to quantify trihydroxyacetophenone THAP in rat and dog plasma with trihydroxybenzaldehyde as an internal standard IS
+O METHOD O O O O O O O O METHOD O O O METHOD O O O INTERNALSTANDARD O,The LCMSMS instrument was operated in the multiple reaction monitoring MRM mode to detect THAP at transition and IS respectively
+O O O METHOD METHOD O O O O CHEMICAL O O O , A simple protein precipitation PP method was employed with acetonitrile for sample preparation 
+O O O O O METHOD O INTERNALSTANDARD O O O O MOBILEPHASE O O O O DOSE CHEMICAL CHEMICAL O CHEMICAL O O O O O,Utilizing a Gemini C18 column THAP and IS were separated with an isocratic mobile phase consisting of 10mM ammonium acetate and methanol at a flow rate of
+O METHOD O O O O O O O O,Total chromatographic run time was 25 min per sample injection
